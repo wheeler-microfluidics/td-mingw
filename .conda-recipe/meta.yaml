@@ -1,0 +1,11 @@
+source:
+  path: ../
+
+package:
+  name: tdm-mingw
+  version: 1.908.0
+
+build:
+  # If this is a new build for the same version, increment the build
+  # number. If you do not include this key, it defaults to 0.
+  number: 1
